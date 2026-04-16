@@ -1,5 +1,5 @@
 #!/usr/bin/env zx
-import { spinner } from "zx/experimental";
+import { spinner } from "zx";
 import "zx/globals";
 
 /**
